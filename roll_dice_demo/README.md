@@ -1,16 +1,5 @@
-# roll_dice_demo
+# Demo Project 1) Roll Dice
 
-A new Flutter project.
+This repisotory consists of different demo projects, that reflects my Flutter/Dart learning process. This project is the first demo project of ths series.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application shows on its user interface a dice, and users can click on the dice button to roll the dice.
