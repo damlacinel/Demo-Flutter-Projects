@@ -1,16 +1,19 @@
-# quiz_app
+# Demo Project 2) Quiz
+This repisotory consists of different demo projects, that reflects my Flutter/Dart learning process. This project is the second demo project of this series.
 
-A new Flutter project.
+The application consists of a predetermined question pool, and different pages: Start Page, Questions Page, and Results Page. The user can see which questions are false, and the right answers to those questions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contents
+- Button Types
+- Stateful Widgets
+- Ternary Expressions & Comparison Operators
+- Data Models
+- Reusable Custom Buttons
+- Alignment, Margin & Padding
+- Third-Party Packages (here: Google Fonts)
+- for Loops
+- Type Casting
+- Passing Data Across Widgets
+- Columns, Rows & Expanded
+- Filtering & Analyzing Lists
+- Scrollable Views
